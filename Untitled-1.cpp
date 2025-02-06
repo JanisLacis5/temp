@@ -4,7 +4,7 @@ using namespace std;
 #define int long long
 #define ff first
 #define ss second
-#define inf INT_MAX
+#define inf LLONG_MAX
 #define all(x) (x).begin(), (x).end()
 
 void solve() {
